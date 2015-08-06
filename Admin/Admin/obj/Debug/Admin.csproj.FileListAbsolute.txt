@@ -1,0 +1,7 @@
+C:\Users\KeidyEunice\Documents\Visual Studio 2015\Projects\Admin\Admin\bin\Admin.dll.config
+C:\Users\KeidyEunice\Documents\Visual Studio 2015\Projects\Admin\Admin\bin\Admin.dll
+C:\Users\KeidyEunice\Documents\Visual Studio 2015\Projects\Admin\Admin\bin\Admin.pdb
+C:\Users\KeidyEunice\Documents\Visual Studio 2015\Projects\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\KeidyEunice\Documents\Visual Studio 2015\Projects\Admin\Admin\obj\Debug\Admin.dll
+C:\Users\KeidyEunice\Documents\Visual Studio 2015\Projects\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\KeidyEunice\Documents\Visual Studio 2015\Projects\Admin\Admin\bin\eWorld.UI.dll
